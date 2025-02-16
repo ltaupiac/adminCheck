@@ -9,4 +9,4 @@ Xbar plugin indicates whether the user is an admin or not.
 
 - 👤 => Icon when *Not Admin*
 
-![Not Admin](NotAdmin.png)
+![Not Admin](notAdmin.png)
